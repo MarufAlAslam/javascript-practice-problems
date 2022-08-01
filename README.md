@@ -1,1 +1,1 @@
-# javascript-practice-problems || By Programming Hero
+# javascript-practice-problems || Programming Hero Batch 6
